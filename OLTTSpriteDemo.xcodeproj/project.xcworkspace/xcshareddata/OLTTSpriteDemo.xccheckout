@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>32E686E0-46FD-4D68-AF75-1D956CA40B2A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>OLTTSpriteDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BFDB8812-DD0E-4F9F-9A57-BFD79C0BE12A</key>
+		<string>ssh://github.com/asail77/OLTTSpriteDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>OLTTSpriteDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BFDB8812-DD0E-4F9F-9A57-BFD79C0BE12A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/asail77/OLTTSpriteDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BFDB8812-DD0E-4F9F-9A57-BFD79C0BE12A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BFDB8812-DD0E-4F9F-9A57-BFD79C0BE12A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OLTTSpriteDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -39,7 +39,6 @@
 		C9990EB817C2EB5300C68C61 /* OLAntagonist.m in Sources */ = {isa = PBXBuildFile; fileRef = C9990EB717C2EB5300C68C61 /* OLAntagonist.m */; };
 		C9990EBF17C400A700C68C61 /* Archer_Death.atlas in Resources */ = {isa = PBXBuildFile; fileRef = C9990EBE17C400A700C68C61 /* Archer_Death.atlas */; };
 		C9D23EBA17C534E500702A54 /* Afterburner.sks in Resources */ = {isa = PBXBuildFile; fileRef = C9D23EB917C534E500702A54 /* Afterburner.sks */; };
-		C9D23EBC17C54D7B00702A54 /* MyParticleDemo.sks in Resources */ = {isa = PBXBuildFile; fileRef = C9D23EBB17C54D7B00702A54 /* MyParticleDemo.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -92,7 +91,6 @@
 		C9990EB717C2EB5300C68C61 /* OLAntagonist.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OLAntagonist.m; sourceTree = "<group>"; };
 		C9990EBE17C400A700C68C61 /* Archer_Death.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; path = Archer_Death.atlas; sourceTree = "<group>"; };
 		C9D23EB917C534E500702A54 /* Afterburner.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Afterburner.sks; sourceTree = "<group>"; };
-		C9D23EBB17C54D7B00702A54 /* MyParticleDemo.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyParticleDemo.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -231,7 +229,6 @@
 				C9D23EB917C534E500702A54 /* Afterburner.sks */,
 				C9305D6217C4BC57002D0DB6 /* ArcherProjectile.sks */,
 				C9305D1617C4648E002D0DB6 /* Bomb.sks */,
-				C9D23EBB17C54D7B00702A54 /* MyParticleDemo.sks */,
 				C9305D1817C48DA2002D0DB6 /* Spark.sks */,
 				C9305D0D17C45D2D002D0DB6 /* spark.png */,
 			);
@@ -332,7 +329,6 @@
 				C9990E8517C28F1600C68C61 /* Spaceship.png in Resources */,
 				C9305D0F17C45D2D002D0DB6 /* spark.png in Resources */,
 				C9990E7D17C28F1600C68C61 /* Main.storyboard in Resources */,
-				C9D23EBC17C54D7B00702A54 /* MyParticleDemo.sks in Resources */,
 				C9990EBF17C400A700C68C61 /* Archer_Death.atlas in Resources */,
 				C9990EB217C2922600C68C61 /* Intern_Attack.atlas in Resources */,
 				C9990EB417C2922600C68C61 /* Tiles.atlas in Resources */,
