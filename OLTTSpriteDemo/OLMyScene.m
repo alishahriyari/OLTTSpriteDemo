@@ -88,7 +88,7 @@ const int kInitialHeroHealth = 5;
     [self loadWorldData];
     
     // Set physics in our world
-    self.physicsWorld.gravity = CGPointZero;
+    self.physicsWorld.gravity = CGVectorMake(0, 0);
     self.physicsWorld.contactDelegate = self;
     
     // World node.  Everything is attached to this node
