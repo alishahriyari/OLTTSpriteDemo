@@ -7,4 +7,3 @@ Almost all code is placed in OLMyScene for a quick and easy way to understand Sp
 
 Enjoy and feel free to add more features (like a restart button!)
 
-![Alt text](Screen Shot.png)
